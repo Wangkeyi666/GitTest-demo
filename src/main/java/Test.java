@@ -14,5 +14,7 @@ public class Test {
 
         System.out.println("合并冲突测试: master");
 
+        System.out.println("合并冲突测试: dev-fix");
+
     }
 }
