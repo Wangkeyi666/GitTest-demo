@@ -1,0 +1,12 @@
+/**
+ * @Author: 王可意
+ * @Description: 将此项目上传至本地库,此类测试改变
+ * @DateTime: 2023/12/12 11:03
+ **/
+public class Test {
+    public static void main(String[] args) {
+
+        System.out.println("上传到git仓库之前...");
+
+    }
+}
