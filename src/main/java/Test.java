@@ -16,7 +16,7 @@ public class Test {
 
         System.out.println("合并冲突测试: dev-fix");
 
-         System.out.println("github update 1")
+         System.out.println("github update 1");
 
     }
 }
