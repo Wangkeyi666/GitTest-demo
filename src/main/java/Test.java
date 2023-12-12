@@ -20,7 +20,7 @@ public class Test {
 
         System.out.println("idea update 1");
 
-        System.out.println("金文英最新的项目");
+        System.out.println("金文英最新的项目1");
 
 
         System.out.println("by 金文英 2222");
