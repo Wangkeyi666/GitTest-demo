@@ -8,5 +8,7 @@ public class Test {
 
         System.out.println("上传到git仓库之前...");
 
+        System.out.println("第一次版本更新 version1...");
+
     }
 }
