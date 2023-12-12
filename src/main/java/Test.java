@@ -18,5 +18,7 @@ public class Test {
 
          System.out.println("github update 1");
 
+        System.out.println("idea update 1");
+
     }
 }
